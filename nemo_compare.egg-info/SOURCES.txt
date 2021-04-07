@@ -1,0 +1,9 @@
+setup.py
+nemo_compare.egg-info/PKG-INFO
+nemo_compare.egg-info/SOURCES.txt
+nemo_compare.egg-info/dependency_links.txt
+nemo_compare.egg-info/top_level.txt
+src/nemo-compare-preferences
+src/nemo-compare-preferences.py
+src/nemo-compare.py
+src/utils.py
